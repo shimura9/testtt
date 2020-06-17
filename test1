@@ -1,0 +1,33 @@
+<div class=jp> {{Expression}} </div>
+
+
+
+.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+.jp { font-size: 40px }
+.win .jp { font-family: "MS Mincho", "ＭＳ 明朝"; }
+.mac .jp { font-family: "Hiragino Mincho Pro", "ヒラギノ明朝 Pro"; }
+.linux .jp { font-family: "Kochi Mincho", "東風明朝"; }
+.mobile .jp { font-family: "Hiragino Mincho ProN"; }
+
+
+
+<div class=jp> {{furigana:Reading}} </div>
+
+<hr id=answer>
+
+<div style='font-family: Arial; font-size: 20px;'>{{Han Viet}}</div><br>
+
+<div style='font-family: Arial; font-size: 20px;'>{{Photo}}</div><br>
+
+{{Meaning}}<br>
+
+<div style='font-family: Arial; font-size: 20px;'>{{Nhom Tu Vung}}</div>
+
+<div style='font-family: Arial; font-size: 20px;'>{{Phat am}}</div>
+
